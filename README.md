@@ -1,2 +1,0 @@
-# exerciceOCR
-Exercice openClassRoom 
